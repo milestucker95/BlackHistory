@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <array>
+          <string>Will Smith</string>
+          <string>2000s</string>
+          <string>Entertainment</string>
+          <string>Started as a rapper moved on as an actor…..., </string>
+          <string>T</string>
+    </array>
+    <array>
+          <string>Oprah Winfrey</string>
+          <string>2000s</string>
+          <string>Entertainment</string>
+          <string>Entertainment show and philanthropist</string>
+          <string>T</string>
+    </array>
+    <array>
+          <string>Martin Luther King Jr.</string>
+          <string>1950s</string>
+          <string>Civil Rights</string>
+          <string> Fought for equality for minorities and women</string>
+          <string>F</string>
+    </array>
+    <array>
+          <string>Denzel Washington</string>
+          <string>2000s</string>
+          <string>Entertainment</string>
+          <string>An African American actor</string>
+          <string>T</string>
+    </array>
+    <array>
+          <string>Rosa Parks</string>
+          <string>1950s</string>
+          <string>Civil Rights</string>
+          <string>Fought for civil rights. Refused to leave her seat for a white man. Initiated bus boycott movement</string>
+          <string>F</string>
+    </array>
+    <array>
+          <string>Jay Z</string>
+          <string>2000s</string>
+          <string>Entertainment</string>
+          <string>Famous rapper and successful businessman. Also engaged to famous and beautiful singer Beyonce</string>
+          <string>T</string>
+    </array>
+</array>
+</plist>

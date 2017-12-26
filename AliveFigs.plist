@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+          <key>name</key>
+          <string>Will Smith</string>
+          <key>alive</key>
+          <string>T</string>
+    </dict>
+    <dict>
+          <key>name</key>
+          <string>Oprah Winfrey</string>
+          <key>alive</key>
+          <string>T</string>
+    </dict>
+    <dict>
+          <key>name</key>
+          <string>Martin Luther King Jr.</string>
+          <key>alive</key>
+          <string>F</string>
+    </dict>
+    <dict>
+          <key>name</key>
+          <string>Denzel Washington</string>
+          <key>alive</key>
+          <string>T</string>
+    </dict>
+    <dict>
+          <key>name</key>
+          <string>Rosa Parks</string>
+          <key>alive</key>
+          <string>F</string>
+    </dict>
+    <dict>
+          <key>name</key>
+          <string>Jay Z</string>
+          <key>alive</key>
+          <string>T</string>
+    </dict>
+</array>
+</plist>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Jay Z</string>
+		<key>decade</key>
+		<string>2000s</string>
+		<key>field</key>
+		<string>Entertainment</string>
+		<key>description</key>
+		<string>Famous rapper and successful businessman. Also engaged to famous and beautiful singer Beyonce</string>
+		<key>alive</key>
+		<string>T</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Denzel Washington</string>
+		<key>decade</key>
+		<string>2000s</string>
+		<key>field</key>
+		<string>Entertainment</string>
+		<key>description</key>
+		<string>An African American actor</string>
+		<key>alive</key>
+		<string>T</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Will Smith</string>
+		<key>decade</key>
+		<string>2000s</string>
+		<key>field</key>
+		<string>Entertainment</string>
+		<key>description</key>
+		<string>Started as a rapper moved on as an actor…..., </string>
+		<key>alive</key>
+		<string>T</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Oprah Winfrey</string>
+		<key>decade</key>
+		<string>2000s</string>
+		<key>field</key>
+		<string>Entertainment</string>
+		<key>description</key>
+		<string>Entertainment show and philanthropist</string>
+		<key>alive</key>
+		<string>T</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Martin Luther King Jr.</string>
+		<key>decade</key>
+		<string>1950s</string>
+		<key>field</key>
+		<string>Civil Rights</string>
+		<key>description</key>
+		<string> Fought for equality for minorities and women</string>
+		<key>alive</key>
+		<string>F</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rosa Parks</string>
+		<key>decade</key>
+		<string>1950s</string>
+		<key>field</key>
+		<string>Civil Rights</string>
+		<key>description</key>
+		<string>Fought for civil rights. Refused to leave her seat for a white man. Initiated bus boycott movement</string>
+		<key>alive</key>
+		<string>F</string>
+	</dict>
+</array>
+</plist>
